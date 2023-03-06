@@ -1,0 +1,32 @@
+#neubar {
+    background: #dd8314;
+    box-shadow: 4px 6px 12px rgba(0,0,0,0.4)
+  }
+   
+  .nav-item .active {
+    border-radius: 6px;
+    background: linear-gradient(145deg, #ffe7ca, #9e5e0f);
+    box-shadow:  4px 4px 8px #ddc1a0,
+                 -4px -4px 8px #f7e5cc;
+  }
+  #neubar .dropdown-menu a:hover {
+    color: #975555
+  }
+  #neubar .nav-item {
+    margin : auto 4px;
+  }
+  #neubar a {
+   
+    padding-left:12px;
+    padding-right:12px;
+  }
+  #neubar .dropdown-menu {
+    background : #545454
+  }
+  a.navbar-brand {
+    color: #754b4b
+  }
+body{
+background: url(https://media.istockphoto.com/id/1399862302/photo/personal-data-protection-act-lawyers-provide-protection-for-individuals-pdpa-protect-personal.jpg?b=1&s=170667a&w=0&k=20&c=NMhbULB0ube2yw7AkAi3w0hkMq5Oe9SE8QsWY1gBRIw=)no-repeat;
+background-size: cover;
+}
